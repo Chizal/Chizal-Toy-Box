@@ -1,0 +1,38 @@
+[
+  {
+    "id": "mon_bryz",
+    "type": "MONSTER",
+    "name": "bry-z",
+    "description": "Once an old buddy of yours before the cataclysm, now a savage form of undead with multiple mutated appendages.",
+    "default_faction": "zombie",
+    "species": [ "ZOMBIE" ],
+    "diff": 26,
+    "size": "MEDIUM",
+    "hp": 160,
+    "speed": 110,
+    "material": [ "flesh" ],
+    "symbol": "Z",
+    "color": "pink",
+    "aggression": 60,
+    "morale": 30,
+    "melee_skill": 7,
+    "melee_dice": 4,
+    "melee_dice_sides": 6,
+    "melee_cut": 6,
+    "dodge": 4,
+    "armor_bash": 4,
+    "armor_cut": 12,
+    "vision_day": 50,
+    "path_settings": { "max_dist": 50 },
+    "death_drops": {
+      "subtype": "collection",
+      "items": [
+        [ "zweihander_inferior", 25 ],
+        [ "utilikilt", 25 ],
+		[ "kilt", 90 ]
+      ]
+    },
+    "death_function": [ "NORMAL" ],
+    "flags": [ "SEES", "SMELLS", "HEARS", "WARM", "BASHES", "POISON", "NO_BREATHE", "ARTHROPOD_BLOOD", "PATH_AVOID_DANGER_2", "PRIORITIZE_TARGETS" ]
+  }
+]
