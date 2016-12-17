@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "chizal_toybox",
+    "name": "Chizal's Toy Box",
+    "authors": [ "Chizal" ],
+    "description": "Adds a conglomerate of novlety content.",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]
