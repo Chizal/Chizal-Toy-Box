@@ -63,7 +63,7 @@
   {
     "type" : "COMESTIBLE",
     "id" : "dinonugget",
-    "name" : "dinosaur shaped chicken nuggets",
+    "name" : "Dinosaur shaped chicken nuggets",
     "weight" : 238,
     "color" : "red",
     "spoils_in" : 24,
