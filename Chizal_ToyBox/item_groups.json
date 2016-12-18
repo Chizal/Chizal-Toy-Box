@@ -1194,7 +1194,7 @@
       ["b_shorts", 15],
       ["kilt", 5],
       ["nanoskirt", 10],
-      ["utilikilt", 5],
+      ["utilikilt", 5]
     ]
   },{
     "type" : "item_group",
@@ -1979,9 +1979,9 @@
 	  ["bopit", 18]
     ]
   },{
-"type" : "item_group",
-"id" : "arcade_prizes",
-"items":[
+	"type" : "item_group",
+	"id" : "arcade_prizes",
+	"items":[
       ["bbgun", 30],
       ["bb", 30],
       ["portable_game", 60],
@@ -2038,6 +2038,13 @@
       ["clownshoes", 5],
       ["l-stick", 1],
       ["bop_it", 20]
+    ]
+  },{
+    "type" : "item_group",
+    "id" : "kilts",
+    "items":[
+      ["kilt", 90],
+      ["utilikilt", 10]
     ]
   }
 ]
