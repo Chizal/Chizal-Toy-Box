@@ -11,4 +11,5 @@
             { "group": "shoes", "damage": [1, 4] },
             { "item": "zweihander_inferior", "damage": [1, 4], "prob": 6 }
         ]
-    }, 
+    }
+]

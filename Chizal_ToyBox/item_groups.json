@@ -2037,7 +2037,7 @@
       ["clown_suit", 5],
       ["clownshoes", 5],
       ["l-stick", 1],
-      ["bop_it", 20]
+      ["bopit", 20]
     ]
   },{
     "type" : "item_group",
